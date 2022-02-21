@@ -1,0 +1,32 @@
+#external {
+  color: blue;
+  font-size: 25px;
+  border: 2px solid red;
+  height: 40px;
+  width: 200px;
+}
+
+#product_paragraph {
+  border: 3px dashed blue;
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 50px;
+
+  padding: 20px;
+}
+
+#contact {
+  border: 4px dashed yellow;
+  margin: 50px 100px 200px; /*top=50px, bottom= 30px, left and right = 100px*/
+  padding: 10px 100px;
+}
+
+#boxes {
+  border: 2px solid red;
+  padding: 20px 50%;
+}
+.margin1 {
+  margin-left: 100px;
+  margin-right: 100px;
+}
